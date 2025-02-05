@@ -52,7 +52,6 @@ Each module is designed to be self-contained, ensuring modularity and scalabilit
             │   ├── ecs/
             │   │   ├── main.tf
             │   │   ├── variables.tf
-            │   │   └── outputs.tf
             │   ├── kms/
             │   │   ├── main.tf
             │   │   ├── variables.tf
@@ -60,6 +59,6 @@ Each module is designed to be self-contained, ensuring modularity and scalabilit
             │   │   ├── main.tf
             │   │   ├── variables.tf
             │   └── ecs_fargate/
-            │       ├── main.tf
-            │       ├── variables.tf
+            │   │   ├── main.tf
+            │   │   ├── variables.tf
            
